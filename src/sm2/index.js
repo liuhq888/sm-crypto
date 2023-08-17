@@ -253,6 +253,7 @@ module.exports = {
   comparePublicKeyHex: _.comparePublicKeyHex,
   doEncrypt,
   doDecrypt,
+  getPublicKeyFromPrivateKey,
   doSignature,
   doVerifySignature,
   getPoint,

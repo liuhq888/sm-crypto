@@ -166,5 +166,6 @@ test('sm2: sign data and verify sign', () => {
             userId: '1234567812345678'
         })
         expect(verifyResult6).toBe(true)
+
     }
 })
